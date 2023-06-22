@@ -1,0 +1,16 @@
+streamlit
+cv2
+av
+numpy
+streamlit_webrtc
+webrtc_streamer
+RTCConfiguration
+VideoTransformerBase
+scipy.spatial
+distance
+imutils
+face_utils
+argparse
+imutils
+dlib
+face_recognition
